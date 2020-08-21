@@ -11,3 +11,5 @@ The organization uses this data to perform the following analytics:
 
 Implement the above problem statement in Python 3.7 using BINARY TREE ADT.
 Perform an analysis for the questions above and give the running time in terms of input size: n.
+
+This code implements binary tree and it's functions like binary search in python.
