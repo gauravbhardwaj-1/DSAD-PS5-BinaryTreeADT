@@ -1,0 +1,15 @@
+Total number of employees recorded today: 9
+Employee id 22 did not swipe today.
+Employee id 6 swiped 1 times today and is currently in office
+Employee id 3 swiped 5 times today and is currently in office
+Employee id 5 swiped 4 times today and is currently outside office
+No Employees swiped more than 6 number of times today
+Employees swiped more than 3 number of times today are:
+3,5
+4,4
+5,4
+No Employees swiped more than 5 number of times today
+Range: 3 to 8
+6,1,in
+3,5,in
+5,4,out
